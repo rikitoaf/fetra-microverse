@@ -31,3 +31,13 @@ body {
   #img-caption {
     margin: 15px 0 5px 0;
   }
+
+  ul {
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+  }
+  
+  li {
+    margin: 16px 0;
+  }
